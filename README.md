@@ -4,3 +4,4 @@
 
 1. 1 ноября - препроцессинг текста, модели Word2Vec и fastText, задача классификации текстов
 2. 8 ноября - language modelling, encoder-decoder, attention
+3. 15 ноября - классификация текстов с помощью модели BERT и библиотеки Transformers
